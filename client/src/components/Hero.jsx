@@ -23,7 +23,7 @@ function Hero() {
         </div>
 
         <div className="hero-photo">
-          <img src="/profile.jpg" alt="Aman Verma" />
+          <img src="/profile.jpg" alt="Abhishek Yadav" />
         </div>
       </div>
     </section>
