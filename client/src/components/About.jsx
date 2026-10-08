@@ -1,4 +1,4 @@
-import "./Navbar.css";
+import "./About.css";
 
 function About() {
   return (

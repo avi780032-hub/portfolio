@@ -12,7 +12,7 @@ export const profile = {
     "I'm a final-year B.Tech (CSE) student at SHEAT College of " +
     "Engineering, Varanasi. I enjoy turning ideas into working websites, " +
     "and I've spent the last year building projects with the MERN stack.",
-  photo: "/profile.jpg",
+  photo: "./profile.jpg",
   resumeUrl: "#",
   email: "aman@example.com",
   location: "Varanasi, India",

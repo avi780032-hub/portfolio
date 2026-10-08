@@ -1,4 +1,4 @@
-import "./Skill.css";
+import "./Skills.css";
 
 function Skill({ skills }) {
     const categories = ["Frontend", "Backend", "Tools"];
